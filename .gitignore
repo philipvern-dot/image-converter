@@ -1,0 +1,21 @@
+# Converted pictures
+converted/
+
+# Personal lists, settings, and pasted pictures
+saved-lists/*
+app/settings.json
+app/pasted/
+
+# ImageMagick program files. The license text stays.
+tools/ImageMagick/*
+!tools/ImageMagick/License.txt
+!tools/ImageMagick/NOTICE.txt
+
+# Shortcut is rewritten for this PC
+*.lnk
+
+# Uploaded separately as a GitHub Release
+image_converter.exe
+
+Thumbs.db
+desktop.ini
